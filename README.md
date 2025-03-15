@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Aksh Agrawal | Tech Enthusiast & Robotics Innovator 🤖</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=%E2%9C%A8+Innovating+with+Code+%7C+Exploring+AI+Robotics%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=50&lines=%E2%9C%A8+Innovating+with+Code+%7C+Exploring+AI+%7C+Robotics+%E2%9C%A8" />
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 
 ---
 
-## 👋 **About Me
-- 🎓 **CSVTU Bhilai | 1st Year**
+## 👋 **About Me**
+- 🎓 **CSVTU Bhilai | 2nd Year**
 - 🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**
 - 🔥 Passionate about **AI, ML, Networking, DSA, Video Editing, Graphics & Animation**
 - 💡 **Always building something!** Current projects:
@@ -43,37 +43,37 @@
 
 ### 🌐 **Networking & Cyber Tech**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-%23F05033.svg?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-0A192F?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
 ---
 
 ## 🔥 **Featured Projects**
 | 🚀 **Project**  | 🛠 **Description**  |
 |---------------|----------------|
-| **[Kiro AI Robot](#)** 🤖 | Smart mobile robot for lab automation & guest welcoming  |
-| **[Wearable Safety Jacket](#)** 🏆 | Hackathon project with AI-based health monitoring  |
-| **[Rock Paper Scissors Game](#)** 🎮 | JavaScript game against an AI opponent  |
-| **[Tic-Tac-Toe](#)** ❌ | Interactive 2-player web game  |
-| **[Simple Calculator](#)** 📟 | Functional web-based calculator  |
-| **[Currency Converter](#)** 💱 | Lightweight multi-currency conversion tool  |
+| **[Kiro AI Robot](Your-GitHub-Repo-Link)** 🤖 | Smart mobile robot for lab automation & guest welcoming  |
+| **[Wearable Safety Jacket](Your-GitHub-Repo-Link)** 🏆 | Hackathon project with AI-based health monitoring  |
+| **[Rock Paper Scissors Game](Your-GitHub-Repo-Link)** 🎮 | JavaScript game against an AI opponent  |
+| **[Tic-Tac-Toe](Your-GitHub-Repo-Link)** ❌ | Interactive 2-player web game  |
+| **[Simple Calculator](Your-GitHub-Repo-Link)** 📟 | Functional web-based calculator  |
+| **[Currency Converter](Your-GitHub-Repo-Link)** 💱 | Lightweight multi-currency conversion tool  |
 
 ---
 
 ## 📊 **GitHub Mission Control**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aksh10&theme=radical&column=7&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aksh-Agrawal&theme=radical&column=6&margin-w=15&no-bg=true&no-frame=true" />
 </p>
 
-## 📊 GitHub Stats:
+---
+
+## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aksh-Agrawal&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksh-Agrawal&theme=radical&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
-
 
 ---
 
