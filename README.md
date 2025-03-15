@@ -7,6 +7,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Aksh-Agrawal&style=for-the-badge&color=00F7FF" alt="Profile Views"/> 
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aksh-Agrawal&title=Visitors&edge_flat=false&style=for-the-badge&color=00F7FF" />
 </p>
 
 ---
@@ -71,30 +74,17 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <!-- GitHub Stats & Streak -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Aksh-Agrawal&theme=radical&hide_border=true" />
-  
-  <!-- Language Cards -->
-  <div align="center" style="display: flex; gap: 1rem; justify-content: center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=radical&hide=html,css&langs_count=8&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=pie&theme=radical&size_weight=0.5&count_weight=0.5&hide_border=true" />
-  </div>
-
-</div>
-ĺp
----
-
-## ✨ **Daily Quote**
+## ✨ Daily Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
+
+## 🌟 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Aksh-Agrawal/count.svg?style=for-the-badge&color=00F7FF" />
+</p>
 
 ## 🤝 Let's Connect!
 <p align="center">
@@ -112,3 +102,8 @@
 ---
 
 ⭐ **"Learning Never Stops. Innovate. Build. Inspire."** 🚀
+
+<!-- Optional Floating Counter (Add at very top if wanted) -->
+<!-- <a href="https://github.com/Aksh-Agrawal">
+  <img align="right" src="https://count.getloli.com/get/@Aksh-Agrawal?theme=moebooru" alt="Floating Visitor Counter">
+</a> -->
