@@ -45,16 +45,11 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-%23F05033.svg?style=for-the-badge)
 
-### 🎨 **Design & Editing**
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
 ---
 
 ## 🔥 **Featured Projects**
 | 🚀 **Project**  | 🛠 **Description**  |
 |---------------|----------------|
-| **[WarBot X1](#)** ⚔️ | Combat-ready RC car for Robo War competitions  |
 | **[Kiro AI Robot](#)** 🤖 | Smart mobile robot for lab automation & guest welcoming  |
 | **[Wearable Safety Jacket](#)** 🏆 | Hackathon project with AI-based health monitoring  |
 | **[Rock Paper Scissors Game](#)** 🎮 | JavaScript game against an AI opponent  |
@@ -66,9 +61,14 @@
 
 ## 📊 **GitHub Mission Control**
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aksh10&theme=radical&column=7&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksh10&theme=radical&hide_border=true" width="49%">
   <img src="https://github-readme-stats.vercel.app/api?username=Aksh10&show_icons=true&theme=radical&hide_border=true" width="49%">
 </p>
+
 
 ---
 
