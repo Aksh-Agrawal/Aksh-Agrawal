@@ -64,10 +64,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Aksh10&theme=radical&column=7&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aksh10&theme=radical&hide_border=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksh10&show_icons=true&theme=radical&hide_border=true" width="49%">
-</p>
+# GitHub Stats: ![(https://github-readme-stats.vercel .app/api?username=Aksh-Agrawal &theme=dark&hide_border=false &include_all_commits=true&count ◦ _private=true)<br/> !(https://nirzak-streak-stats.vercel .app/?user=Aksh-Agrawal&theme= ◦ dark&hide_border=false)<br/> ![(https://github-readme-stats.vercel ◦ .app/api/top-langs/?username=Aksh -Agrawal&theme=dark&hide_border =false&include_all_commits=true& count_private=true&layout=compact)
 
 
 ---
