@@ -12,8 +12,9 @@
 ---
 
 ## 👋 **About Me**
-- 🎓 **CSVTU Bhilai | 2nd Year**
+- 🎓 **CSVTU Bhilai | 1st Year**
 - 🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**
+- ✨️ **Member of Programmers Paradise**
 - 🔥 Passionate about **AI, ML, Networking, DSA, Video Editing, Graphics & Animation**
 - 💡 **Always building something!** Current projects:
   - ⚔️ **Nextronix WarBot X1** – Combat-ready RC car for Robo War competitions
