@@ -82,9 +82,9 @@
 
 ---
 
-## ✨ Daily Quote
+## ✨ **Daily Quote**
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
