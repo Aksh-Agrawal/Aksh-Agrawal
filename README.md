@@ -11,17 +11,35 @@
 
 ---
 
-## 👋 **About Me**
-- 🎓 **CSVTU Bhilai | 1st Year**
-- 🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**
-- ✨️ **Member of Programmers Paradise**
-- 🔥 Passionate about **AI, ML, Networking, DSA, Video Editing, Graphics & Animation**
-- 💡 **Always building something!** Current projects:
-  - ⚔️ **Nextronix WarBot X1** – Combat-ready RC car for Robo War competitions
-  - 🤖 **Kiro AI Robot** – AI-enabled mobile robot for lab operations
-  - 🏆 **SIH Hackathon Project** – Smart wearable for delivery workforce safety  
-- 🌍 Developing **dynamic websites** & exploring **networking (routing & switching)**
-- 💬 Let's talk about **C, C++, Java, Robotics, AI, and Cyber-Physical Systems**
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=F7A41D&width=500&lines=CSVTU+Bhilai+|+2nd+Year+Student;Robotics+%7C+AI+Enthusiast;Tech+Lover+%7C+Always+Building+Something" alt="Typing Animation">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Aksh-A/Aksh-A/assets/animated-robot.gif" width="200" alt="Robot Animation">
+</p>
+
+## 🚀 About Me  
+🎓 **CSVTU Bhilai | 2nd Year Student**  
+🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**  
+👨‍💻 **Member of Programmers Paradise**  
+
+### 🚀 **Tech Interests**  
+🔹 AI & ML 🧠 | Networking 🌐 | DSA 🏹 | Video Editing 🎬 | Graphics & Animation 🎨  
+
+### ⚡ **Current Projects**  
+🔹 **⚔️ Nextronix WarBot X1** – Combat-ready RC car for Robo War competitions  
+🔹 **🤖 Kiro AI Robot** – AI-powered mobile robot for lab automation & guest welcoming  
+🔹 **🦺 SIH Hackathon Project** – Smart wearable for delivery workforce safety  
+
+### 💡 **Exploring**  
+🔹 **🌍 Networking (Routing & Switching)**  
+🔹 **🌐 Dynamic Web Development**  
+
+## 🎯 Let's Connect & Collaborate!  
+💬 **Let’s talk about:** **C, C++, Java, Robotics, AI, and Cyber-Physic
 
 ---
 
