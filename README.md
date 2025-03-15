@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Aksh Agrawal | Tech Enthusiast & Robotics Innovator 🤖</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=%E2%9C%A8+    +Innovating+with+Code+%7C+Building+Robots+%7C+Exploring+AI+    +%E2%9C%A8" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=%E2%9C%A8+Innovating+with+Code+%7C+Exploring+AI+Robotics%E2%9C%A8" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 **About Me**
+## 👋 **About Me
 - 🎓 **CSVTU Bhilai | 1st Year**
 - 🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**
 - 🔥 Passionate about **AI, ML, Networking, DSA, Video Editing, Graphics & Animation**
