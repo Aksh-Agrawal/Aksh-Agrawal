@@ -86,14 +86,7 @@
   </div>
 
 </div>
----
-### 🛠️ Skill Proficiency
-![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-75%25-00599C?style=flat-square&logo=c-plus-plus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=323330)
-
----
-
+ĺp
 ---
 
 ## ✨ **Daily Quote**
