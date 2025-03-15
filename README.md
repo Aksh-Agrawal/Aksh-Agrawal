@@ -77,8 +77,14 @@
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Aksh-Agrawal&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=radical&hide=html,css&langs_count=8)](https://github.com/Aksh-Agrawal)
+  [![3D Code Map](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=pie&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/Aksh-Agrawal)
+
 </p>
+### 🛠️ Skill Proficiency (Self-Assessed)
+![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-75%25-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
