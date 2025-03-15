@@ -72,19 +72,27 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Aksh-Agrawal&theme=radical&hide_border=true" />
-  <br/>
-  [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=radical&hide=html,css&langs_count=8)](https://github.com/Aksh-Agrawal)
-  [![3D Code Map](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=pie&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/Aksh-Agrawal)
 
-</p>
-### 🛠️ Skill Proficiency (Self-Assessed)
-![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-75%25-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<div align="center">
+  
+  <!-- GitHub Stats & Streak -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&theme=radical&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Aksh-Agrawal&theme=radical&hide_border=true" />
+  
+  <!-- Language Cards -->
+  <div align="center" style="display: flex; gap: 1rem; justify-content: center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=radical&hide=html,css&langs_count=8&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=pie&theme=radical&size_weight=0.5&count_weight=0.5&hide_border=true" />
+  </div>
+
+</div>
+---
+### 🛠️ Skill Proficiency
+![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-75%25-00599C?style=flat-square&logo=c-plus-plus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-65%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=323330)
+
+---
 
 ---
 
