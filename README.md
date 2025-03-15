@@ -81,6 +81,13 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aksh-Agrawal&theme=radical&column=6&margin-w=15&no-bg=true&no-frame=true" />
 </p>
+---
+
+## ✨ **Daily Quote**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
 
 ---
 
