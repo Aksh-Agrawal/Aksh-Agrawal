@@ -14,7 +14,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&font=Fira+Code&size=18&duration=2500&pause=500&color=F7A41D&width=500&lines=CSVTU+UTD+Bhilai+|+1st+Year+Student;Robotics+%7C+AI+Enthusiast;Tech+Lover+%7C+Always+Building+Something" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&font=Fira+Code&size=18&duration=3000&pause=500&width=500&lines=CSVTU+UTD+Bhilai+|+1st+Year+Student;Robotics+%7C+AI+Enthusiast;Tech+Lover+%7C+Always+Building+Something" alt="Typing Animation">
 </p>
 
 <p align="center">
