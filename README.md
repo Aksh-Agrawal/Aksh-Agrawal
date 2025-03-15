@@ -97,7 +97,7 @@
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aksh-Agrawal&theme=radical&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://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&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
