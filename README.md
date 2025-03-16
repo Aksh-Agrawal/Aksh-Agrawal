@@ -74,6 +74,16 @@
 
 ---
 
+## 📊 **GitHub Stats**
+<p align="center">
+ 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aksh-Agrawal&theme=dark&hide_border=false" />
+  <br/>
+  
+</p>
+
+---
+
 ## ✨ Daily Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
