@@ -32,7 +32,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxprogrammer007&theme=matrix" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aksh-agrawal&theme=matrix" alt="Trophies" />
 </p>
 
 ---
