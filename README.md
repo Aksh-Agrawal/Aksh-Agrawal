@@ -24,6 +24,20 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Robot Animation">
 </p>
 
+---
+
+### 📊 **Profile Views and Trophy**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=maxprogrammer007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxprogrammer007&theme=matrix" alt="Trophies" />
+</p>
+
+---
+
+
 ## 🚀 About Me  
 🎓 **CSVTU Bhilai | 1st Year Student**  
 🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**  
