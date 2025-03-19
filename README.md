@@ -114,8 +114,8 @@
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxprogrammer007&show_icons=true&locale=en&theme=github_dark&hide_border=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxprogrammer007&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aksh-agrawal&show_icons=true&locale=en&theme=github_dark&hide_border=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aksh-agrawal&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
@@ -138,6 +138,6 @@
 ⭐ **"Learning Never Stops. Innovate. Build. Inspire."** 🚀
 
 <!-- Optional Floating Counter (Add at very top if wanted) -->
-<!-- <a href="https://github.com/Aksh-Agrawal">
+<a href="https://github.com/Aksh-Agrawal">
   <img align="right" src="https://count.getloli.com/get/@Aksh-Agrawal?theme=moebooru" alt="Floating Visitor Counter">
-</a> -->
+</a> 
