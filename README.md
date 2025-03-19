@@ -110,6 +110,16 @@
   <img src="https://profile-counter.glitch.me/Aksh-Agrawal/count.svg?style=for-the-badge&color=00F7FF" />
 </p>
 
+---
+
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxprogrammer007&show_icons=true&locale=en&theme=github_dark&hide_border=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxprogrammer007&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/aksh-agrawal-436066327" target="_blank">
