@@ -138,6 +138,6 @@
 ⭐ **"Learning Never Stops. Innovate. Build. Inspire."** 🚀
 
 <!-- Optional Floating Counter (Add at very top if wanted) -->
-<a href="https://github.com/Aksh-Agrawal">
+<!-- <a href="https://github.com/Aksh-Agrawal">
   <img align="right" src="https://count.getloli.com/get/@Aksh-Agrawal?theme=moebooru" alt="Floating Visitor Counter">
 </a> 
