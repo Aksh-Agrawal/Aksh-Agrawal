@@ -94,7 +94,10 @@
  
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aksh-Agrawal&theme=dark&hide_border=false" />
   <br/>
-  
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aksh-agrawal&show_icons=true&locale=en&theme=github_dark&hide_border=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aksh-agrawal&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+</div>
 </p>
 
 ---
