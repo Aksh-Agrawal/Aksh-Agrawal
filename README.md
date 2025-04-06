@@ -100,7 +100,7 @@
 
   <!-- GitHub Stats and Top Languages -->
   <a href="https://github.com/Aksh-Agrawal">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="200%" width="48%" alt="GitHub Stats">
   </a>
 
   <a href="https://github.com/Aksh-Agrawal">
@@ -109,6 +109,13 @@
 
 </div>
 
+
+---
+
+### 📈 **Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksh-Agrawal&theme=github-dark&area=true&hide_border=true" height="250" alt="Activity Graph" />
+</div>
 
 ---
 
