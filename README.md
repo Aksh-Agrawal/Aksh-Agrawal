@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Aksh-Agrawal&style=for-the-badge&color=00F7FF" alt="Profile Views"/> 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aksh-Agrawal&title=Visitors&edge_flat=false&style=for-the-badge&color=00F7FF" />
+
+
 </p>
 
 ---
@@ -58,27 +58,60 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
-### 🚀 Languages & Programming
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠 Tech Stack
 
-### 🖥️ Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🤖 Robotics & Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-2D4D66?logo=solidworks&logoColor=white)
 
-### 🤖 Robotics & AI
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Aksh-Agrawal&theme=dark&hide_border=true&border_radius=10&background=0D1117&stroke=00F7FF" alt="GitHub Streak Stats">
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Stats and Top Languages -->
+  <a href="https://github.com/Aksh-Agrawal">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats">
+  </a>
+
+  <a href="https://github.com/Aksh-Agrawal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages">
+  </a>
+
+</div>
+
+
+---
+
 
 ## 🔥 Featured Projects
 | 🚀 Project         | 🛠 Description                                                                 |
@@ -90,41 +123,19 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
- 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aksh-Agrawal&theme=dark&hide_border=false" />
-  <br/>
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksh-agrawal&show_icons=true&locale=en&theme=github_dark&hide_border=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aksh-agrawal&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
-</div>
-</p>
 
----
 
 ## ✨ Daily Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
 
-## 🌟 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Aksh-Agrawal/count.svg?style=for-the-badge&color=00F7FF" />
-</p>
+
+
+
 
 ---
-
-### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aksh-agrawal&show_icons=true&locale=en&theme=github_dark&hide_border=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aksh-agrawal&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
-</div>
-
----
-
 ## 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/aksh-agrawal-436066327" target="_blank">
@@ -133,7 +144,7 @@
   <a href="https://instagram.com/_.aksh10._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:akshagrawalji@gmail.com">
+  <a href="mailto:akshagr10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -142,7 +153,12 @@
 
 ⭐ **"Learning Never Stops. Innovate. Build. Inspire."** 🚀
 
-<!-- Optional Floating Counter (Add at very top if wanted) -->
-<!-- <a href="https://github.com/Aksh-Agrawal">
-  <img align="right" src="https://count.getloli.com/get/@Aksh-Agrawal?theme=moebooru" alt="Floating Visitor Counter">
-</a> 
+---
+
+## 💡 Pro Tip
+```c
+// Always remember:
+while(!succeed) {
+    try();
+    if(failed) learn();
+}
