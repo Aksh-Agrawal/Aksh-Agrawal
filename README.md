@@ -40,9 +40,10 @@
 
 
 ## 🚀 About Me  
+👨‍💻 **Technical Secratary of Programmers Paradise Technical Socuty**  
 🎓 **CSVTU Bhilai | 1st Year Student**  
 🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**  
-👨‍💻 **Member of Programmers Paradise**  
+
 
 ### 🚀 Tech Interests  
 🔹 AI & ML 🧠 | Networking 🌐 | DSA 🏹 | Video Editing 🎬 | Graphics & Animation 🎨  
