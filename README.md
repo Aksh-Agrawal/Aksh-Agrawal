@@ -1,7 +1,7 @@
 <!-- 🚀 Animated Header -->
 <!--hello-->
 <h1 align="center">🚀 Aksh Agrawal | Tech Enthusiast & Robotics Innovator 🤖</h1>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=50&lines=%E2%9C%A8+Innovating+with+Code+%7C+Exploring+AI+%7C+Robotics+%E2%9C%A8" />
 </p>
@@ -105,7 +105,8 @@
   </a>
 
   <br/><br/>
-
+<div aling="center">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksh-agrawal&theme=2077" alt="Profile Summary"></div>
   <!-- GitHub Stats and Top Languages -->
   <a href="https://github.com/Aksh-Agrawal">
     <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="200%" width="48%" alt="GitHub Stats">
