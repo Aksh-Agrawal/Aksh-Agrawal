@@ -48,11 +48,11 @@
 ### 🚀 Tech Interests  
 🔹 AI & ML 🧠 | Networking 🌐 | DSA 🏹 | Video Editing 🎬 | Graphics & Animation 🎨  
 
-### ⚡ Current Projects  
+<!-- ### ⚡ Current Projects  
 🔹 **⚔️ Nextronix WarBot X1** – Combat-ready RC car for Robo War competitions  
 🔹 **🤖 Kiro AI Robot** – AI-powered mobile robot for lab automation & guest welcoming  
 🔹 **🦺 SIH Hackathon Project** – Smart wearable for delivery workforce safety  
-
+-->
 ### 💡 Exploring  
 🔹 **🌍 Networking (Routing & Switching)**  
 🔹 **🌐 Dynamic Web Development**  
@@ -126,7 +126,7 @@
 </div>
 
 ---
-
+<!--
 
 ## 🔥 Featured Projects
 | 🚀 Project         | 🛠 Description                                                                 |
@@ -137,7 +137,7 @@
 | [Tic-Tac-Toe](https://github.com/Aksh-Agrawal/Tic-Tac-Toe) ❌⭕ | Interactive 2-player web game |
 
 ---
-
+-->
 
 
 ## ✨ Daily Quote
