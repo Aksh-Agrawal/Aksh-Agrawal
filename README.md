@@ -103,7 +103,7 @@
   </a>
 
   <a href="https://github.com/Aksh-Agrawal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="48%" alt="Top Languages">
   </a>
 
 </div>
