@@ -30,7 +30,7 @@
 
 
 ## 🚀 About Me  
-👨‍💻 **Technical Secratary of Programmers Paradise Technical Socuty**  
+👨‍💻 **Technical Secratary of Programmers Paradise Technical Society**  
 🎓 **CSVTU Bhilai | 1st Year Student**  
 🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**  
 
