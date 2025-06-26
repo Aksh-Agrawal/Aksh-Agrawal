@@ -90,9 +90,8 @@
 <div align="center">
 
   <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Aksh-Agrawal&theme=dark&hide_border=true&border_radius=10&background=0D1117&stroke=00F7FF" alt="GitHub Streak Stats">
-  </a>
+
+
 
   <br/><br/>
 <div aling="center">
