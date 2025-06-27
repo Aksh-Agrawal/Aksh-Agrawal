@@ -98,7 +98,7 @@
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksh-agrawal&theme=2077" alt="Profile Summary"></div>
   <!-- GitHub Stats and Top Languages -->
   <a href="https://github.com/Aksh-Agrawal">
-       <img src="https://github-readme-stats.vercel.app/api?username=aksh-agrawal&show_icons=true&locale=en&theme=github_dark&hide_border=true" height="180" alt="GitHub stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   </a>
 
   <a href="https://github.com/Aksh-Agrawal">
