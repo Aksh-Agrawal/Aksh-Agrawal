@@ -107,7 +107,11 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksh-agrawal&theme=dark" alt="streak" /></p>
   </a>
-
+  </div>
+<div align="center">
+  <a href="https://gitroll.io/profile/ul6rmeI6e5DccWJOFHZUfLpI7aTw1" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/ul6rmeI6e5DccWJOFHZUfLpI7aTw1" alt="GitRoll Profile Badge" height="250" width="450" />
+  </a>
 </div>
 
 
