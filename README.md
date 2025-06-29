@@ -96,13 +96,16 @@
   <br/><br/>
 <div aling="center">
   <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aksh-agrawal&theme=2077" alt="Profile Summary"></div>
+ 
   <!-- GitHub Stats and Top Languages -->
   <a href="https://github.com/Aksh-Agrawal">
-        <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="48%" alt="Top Languages">
+        
   </a>
 
   <a href="https://github.com/Aksh-Agrawal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh-Agrawal&layout=compact&theme=github_dark&hide_border=true&langs_count=10" width="48%" alt="Top Languages">
+   <img src="https://github-readme-stats.vercel.app/api?username=Aksh-Agrawal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksh-agrawal&theme=dark" alt="streak" /></p>
   </a>
 
 </div>
