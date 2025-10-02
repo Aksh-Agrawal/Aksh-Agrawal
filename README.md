@@ -29,14 +29,13 @@
 ---
 
 
-## 🚀 About Me  
-👨‍💻 **Technical Secratary of Programmers Paradise Technical Society**  
-🎓 **CSVTU Bhilai | 1st Year Student**  
-🤖 **Member of Nextronix Technical Club | Robotics & AI Enthusiast**  
+## 🚀 About Me    
+🎓 **CSVTU Bhilai | 2nd Year Student**  
+
 
 
 ### 🚀 Tech Interests  
-🔹 AI & ML 🧠 | Networking 🌐 | DSA 🏹 | Video Editing 🎬 | Graphics & Animation 🎨  
+🔹 AI & ML 🧠 | Networking 🌐  | Video Editing 🎬 | Graphics & Animation 🎨  
 
 <!-- ### ⚡ Current Projects  
 🔹 **⚔️ Nextronix WarBot X1** – Combat-ready RC car for Robo War competitions  
